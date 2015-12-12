@@ -4,7 +4,7 @@
 //
 //  Created by 大田　雄翔 on 2015/11/29.
 //  Copyright (c) 2015年 大田　雄翔. All rights reserved.
-//
+
 
 import UIKit
 
